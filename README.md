@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @sujeetkumar 
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+- 👋 Hi, I’m sujeet kumar 
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on ...
@@ -10,7 +14,6 @@ getsettalk/getsettalk is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-`html` `css` `Basic javascript ` `jQuery `, `Php` `Learning Nodejs`
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
