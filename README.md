@@ -40,4 +40,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="ttps://www.linkedin.com/in/sujeet-kumar-sharma-b36609201"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sujeet%20kumar%20sharma-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:rajrock7254@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajrock7254@gmail.com-blue?style=flat-square&logo=gmail"></a>
   </p>
